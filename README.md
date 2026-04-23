@@ -168,5 +168,5 @@ This project explores core image processing techniques including **edge detectio
 
 ## Author
 Kevin Kim  
-M.S. Candidate, Computer Science – Artificial Intelligence
+M.S. Candidate, Computer Science – Artificial Intelligence  
 USC Viterbi School of Engineering
