@@ -1,7 +1,4 @@
 // Name: Kevin Kim
-// USC ID: 6656-3408-40
-// USC Email: kkim8899@usc.edu
-// Submission Date: February 22, 2026
 // Description: this file contains implementations for utility functions.
 #include "util.h"
 #include "image_io.h"
