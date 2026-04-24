@@ -1,4 +1,4 @@
-# Image Processing: Edge Detection and Half-Toning
+# Edge Detection and Half-Toning
 
 ## Overview
 This project explores core image processing techniques including **edge detection**, **digital half-toning**, and **color quantization**. It compares classical methods with learning-based approaches and evaluates performance using both qualitative visualization and quantitative metrics.
